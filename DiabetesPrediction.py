@@ -9,7 +9,7 @@ import pickle
 import numpy as np
 
 # loading the saved model
-loaded_model = pickle.load(open('C:/Users/Akshit/Documents/MLProjects/DibetesPredictionWebApp/trained_model.sav', 'rb'))
+loaded_model = pickle.load(open('C:/Users/Akshit/Documents/MLProjects/DibetesPredictionWebApp/Diabetes-Prediction-Web-App/trained_model.sav', 'rb'))
 input_data = (1,89,66,23,94,28.1,0.167,21)
 
 # changing the input_data to numpy array
