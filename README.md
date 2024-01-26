@@ -18,24 +18,29 @@ Make sure you have the following dependencies installed:
 
 You can install the required dependencies using the following command:
 
-'''bash
 pip install streamlit numpy
+
 Installation
+
 1.Clone the repository:
-git clone https://github.com/your-username/diabetes-prediction-app.git
-cd diabetes-prediction-app
-'''bash
+  git clone https://github.com/your-username/diabetes-prediction-app.git
+  cd diabetes-prediction-app
+
 2.Run the application:
-streamlit run app.py
-'''bash
+  streamlit run app.py
+
 The web app will be accessible in your browser at http://localhost:8501.
 
 Usage
-Enter the required information such as the number of pregnancies, glucose level, blood pressure, etc.
-Click the "Diabetes Test Result" button to get the prediction.
-The result will be displayed indicating whether the person is diabetic or not.
+
+1.Enter the required information such as the number of pregnancies, glucose level, blood pressure, etc.
+2.Click the "Diabetes Test Result" button to get the prediction.
+3.The result will be displayed indicating whether the person is diabetic or not.
+
 Model
-The machine learning model used for prediction is stored in the file trained_model.sav. It is loaded using the pickle library.
+
+  The machine learning model used for prediction is stored in the file trained_model.sav. It is loaded using the pickle library.
 
 Contributing
-Feel free to contribute to the project by opening issues or submitting pull requests. Your contributions are welcome!
+
+  Feel free to contribute to the project by opening issues or submitting pull requests. Your contributions are welcome!
