@@ -23,7 +23,7 @@ pip install streamlit numpy
 Installation
 
 1.Clone the repository:
-  git clone https://github.com/your-username/diabetes-prediction-app.git
+  git clone https://github.com/Aks-hit/diabetes-prediction-app.git
   cd diabetes-prediction-app
 
 2.Run the application:
