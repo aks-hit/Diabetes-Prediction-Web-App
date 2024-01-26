@@ -24,6 +24,7 @@ pip install streamlit numpy
 
 1.Clone the repository:
   git clone https://github.com/Aks-hit/diabetes-prediction-app.git
+  
   cd diabetes-prediction-app
 
 2.Run the application:
@@ -34,7 +35,9 @@ The web app will be accessible in your browser at http://localhost:8501.
 ## Usage
 
 1.Enter the required information such as the number of pregnancies, glucose level, blood pressure, etc.
+
 2.Click the "Diabetes Test Result" button to get the prediction.
+
 3.The result will be displayed indicating whether the person is diabetic or not.
 
 ## Model
